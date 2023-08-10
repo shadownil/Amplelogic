@@ -1,0 +1,106 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0px;
+  }
+  
+  .offcanvas {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f0f0f0;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .offcanvas-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .icon {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .progress-bar {
+    width: 900px;
+    height: 10px;
+    background-color: #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    padding-bottom: 0px;
+  }
+  
+  .progress {
+    height: 100%;
+    background-color:skyblue;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 5px 10px;
+  }
+  
+
+  img{
+    margin-left: 20px;
+    padding: auto;
+    margin-top: 5px;
+
+   
+  }
+  .dropdown{
+    display: flex;
+    margin-right: 900px;
+    margin-top: 5px;
+  }
+ 
+
+  nav{
+   
+    margin: 5px;
+   
+    display: flex;
+    padding: 5px;
+    margin-top: 5px;
+  }
+
+  body{
+    height: 405px;
+   
+  }
+
+  mat-icon{
+    color: white;
+    background-color: skyblue;
+    border-radius: 1px;
+    margin-left: 20px;
+    
+  }
+  footer{
+  
+   height: 214px;
+  }
+  .ico{
+display: flex;
+padding-left: 600px;
+  }
+  .copy{
+    position: relative;
+    align-items: center;
+  }
+
+  span{
+    margin-left: 1300px;
+  }
+ 
+
+
+  
+  
+ 
